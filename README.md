@@ -57,7 +57,7 @@ Steps
 Clone or Download the Repository:
 
 If using Git:
-git clone https://github.com/your-username/trackify.git
+git clone https://github.com/muhammadyasirm/trackify.git
 cd trackify
 
 
