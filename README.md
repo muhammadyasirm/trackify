@@ -34,30 +34,13 @@ Professional styling with shadows, rounded corners, cyan buttons (#00acc1), and 
 
 Technologies Used
 
-Java 11+: Core programming language.
+Java 23: Core programming language.
 JavaFX: For the graphical user interface.
 MySQL: Database for storing users, tasks, and notes.
 MySQL Connector/J: JDBC driver for database connectivity.
 
 Project Structure
-Trackify/
-├── External libraries/
-│   ├── JavaFX SDK/lib/
-│   ├── mysql-connector-java-8.0.33.jar
-├── src/
-│   ├── Main.java
-│   ├── DBconnection.java
-│   ├── User.java
-│   ├── UserDAO.java
-│   ├── IntroScreen.java
-│   ├── Log_reg.java
-│   ├── MainScreen.java
-│   ├── NotesManager.java
-│   ├── TaskManager.java
-│   ├── logo.png
-│   ├── OIP.jpg
-├── README.md
-├── schema.sql
+copy these all files in this repository and paste them to Src folder in your project
 
 
 Setup Instructions
